@@ -1,6 +1,8 @@
 .idea
 .DS_Store
-
+data_processing/test_cleaned.csv
+data_processing/train_cleaned.csv
+lyrics_data
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
