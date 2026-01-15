@@ -2,3 +2,8 @@ joblib
 pandas
 scikit-learn
 kaggle
+torch
+numpy
+tensorflow
+matplotlib
+seaborn
